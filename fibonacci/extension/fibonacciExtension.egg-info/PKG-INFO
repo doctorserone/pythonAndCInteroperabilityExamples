@@ -1,0 +1,6 @@
+Metadata-Version: 2.1
+Name: fibonacciExtension
+Version: 0.1.0
+Summary: Python extension for fibonacci
+Author: Andrés Álvarez Iglesias
+Author-email: andres.alvarez.iglesias@gmail.com

@@ -1,10 +1,4 @@
-# Fibonacci
-
-Compile the C library with:
-
-```
-gcc -o fibonacci.so -shared -fPIC -O2 fibonacci.c
-```
+# Fibonacci as C library
 
 Execute test with:
 
